@@ -1,0 +1,13 @@
+setno.1 		179
+frenchfries		39
+tunacornsalad		45
+eggtart 		50
+setno.2			159
+bonelesschicken		39
+mashedpotatoes		39
+vanillaicecream		35
+setno.3			159
+shrimpdonuts		39
+coleslaw		45
+cocoamalt		45
+Tax       		0.7
